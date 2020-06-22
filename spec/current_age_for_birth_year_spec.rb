@@ -11,5 +11,3 @@ describe "current_age_for_birth_year method" do
 
   end
 end
-
-
